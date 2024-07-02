@@ -1,0 +1,10 @@
+# Projects-of-automatization-process
+This section contains my Python scripts. They accelerated processes or performed routine tasks. These were mainly tasks for large calculations with a chain of conditions and values ​​that were in several Excel files with a number of lines > 5000.
+
+## Description of projects:
+| Project number| Project name and link | What is the project about                                                     |
+|---------------|-------------------|------------------------------------------------------------------|
+|1.             | [Active pricing](https://github.com/Gobberz/Projects-of-automatization-process/tree/main/Active%20pricing)|In this project it was necessary to link 4 excel files + a file with rules and on their basis to make a dynamic calculation of competitors' reaction by regions and product groups. Promotional prices and regular prices should be developed, as well as a short summary of why such a price appears.
+|2.             | [Competitor Analysis](https://github.com/Gobberz/Projects-of-automatization-process/tree/main/Competitor%20Analysis) |Here we needed analytics and search for dumping or "deliberate" play for increase. First, three files with data were analyzed and as a result, graphs were built for the selected goods in the context of the entire country with zones divided into quartiles.
+|3.             | [Evaluation of employee performance](https://github.com/Gobberz/Projects-of-automatization-process/tree/main/Evaluation%20of%20employee%20performance)|Script for analyzing employee activity, where key indicators are assessed. As a result, two Excel files are created: "general" - for further work in Power BI, and a file with calculations in tabular form. + matplotlib graphs are downloaded as pictures.
+|4.             |[Ship cards](https://github.com/Gobberz/Projects-of-automatization-process/tree/main/Ship%20cards)|Creation of cards by vessel and date. Processing of an Excel file with 8K lines and creation of unique Excel files for each vessel and arrival date with all information. (for further visualization in Power BI).
